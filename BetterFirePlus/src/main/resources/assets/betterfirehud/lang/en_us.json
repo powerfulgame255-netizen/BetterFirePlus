@@ -1,0 +1,16 @@
+{
+  "key.betterfirehud.open_gui":  "Open BetterFire+ Settings",
+  "category.betterfirehud":      "BetterFire+",
+  "screen.betterfirehud.title":  "BetterFire+ Settings",
+
+  "betterfirehud.mod.on":        "Mod: On",
+  "betterfirehud.mod.off":       "Mod: Off",
+
+  "betterfirehud.overlay.always":          "Remove Overlay: Always",
+  "betterfirehud.overlay.fire_resistance": "Remove Overlay: Fire Resistance",
+  "betterfirehud.overlay.creative":        "Remove Overlay: Creative Mode",
+
+  "betterfirehud.firetype.both": "Fire Type: Both",
+  "betterfirehud.firetype.fire": "Fire Type: Fire",
+  "betterfirehud.firetype.lava": "Fire Type: Lava"
+}
